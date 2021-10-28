@@ -2,8 +2,8 @@
     var _CONTENT = [
       "Hey!",
       "We are Sirimongkol Team",
-      "Stay connected @sirimongkol.official",
-      "Coming soon..."
+      "Coming soon...",
+      "Stay connected @sirimongkol.official"
     ];
 
     // Current sentence being processed
