@@ -1,7 +1,8 @@
 // List of sentences
     var _CONTENT = [
-      "Hey!",
+      "Hey there!",
       "We are Sirimongkol Team",
+      "Digitalization × Buddhism",
       "Coming soon...",
       "Stay connected @sirimongkol.official"
     ];
